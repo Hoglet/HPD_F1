@@ -1,9 +1,9 @@
 # EVO 5
 This is the files for the 2025 version.
 
-Support me by joining the (club)[https://www.printables.com/@KentAsplund_309050/store]
+Support me by joining the [club](https://www.printables.com/@KentAsplund_309050/store)
 
-Assembly instruction is (here)[https://docs.google.com/document/d/1PZM8PQpOPXD6NT12YysO9iK6MuE09k0mja7jsFWa-ms/edit?tab=t.0#heading=h.pn5ul74akmlu]
+Assembly instruction is [here](https://docs.google.com/document/d/1PZM8PQpOPXD6NT12YysO9iK6MuE09k0mja7jsFWa-ms/edit?tab=t.0#heading=h.pn5ul74akmlu)
 
 ## Goals
 - Ease of maintenance.
