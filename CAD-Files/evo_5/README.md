@@ -1,14 +1,14 @@
 # EVO 5
-This is development files for the next version of the HPD EVO series.
+This is the files for the 2025 version.
+
+Support me by joining the (club)[https://www.printables.com/@KentAsplund_309050/store]
+
+Assembly instruction is (here)[https://docs.google.com/document/d/1PZM8PQpOPXD6NT12YysO9iK6MuE09k0mja7jsFWa-ms/edit?tab=t.0#heading=h.pn5ul74akmlu]
 
 ## Goals
 - Ease of maintenance.
 - Suspension for bumpy circuits.
 - Easier setup
-
-## Important
-1. The files are changing and they are intended for people testing new ideas. This means that it might not even work.
-2. There is no printing instruction nor assembly instructions, if you want to use these files then please join on discord and ask.
 
 ## Improvements
 - Easier maintenance and tuning
